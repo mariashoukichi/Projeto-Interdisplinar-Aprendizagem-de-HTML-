@@ -1,0 +1,127 @@
+body{
+	background: lightpink;
+margin-left:10%;	
+margin-right:10%;
+
+}
+.container{
+
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+<style type="text/css">
+		body{
+
+		}
+
+		h1{
+			text-align: center;
+			color:#FF3E96;
+			font-weight: bolder;
+			border: 2px double #FF3E96
+		
+		}
+
+		p{
+			font-family:Abadi Extra Light;
+			color:black;
+			font-size: 16pt;
+
+			
+			
+		}
+
+
+		h2{
+			color:#FF1493;
+			font-size: 22pt;
+			border: 2px double #FF1493
+
+		}
+
+		h3{
+			text-align: center;
+			color: #FF00FF;
+			font-weight: bolder;
+			font-size: 20pt;
+			
+		}
+
+
+		h4{
+			text-align: center;
+			color: #FF69B4;
+			font-weight: bolder;
+			font-size: 18pt;
+			
+		}
+
+		h5{
+			text-align: left;
+			color:#F08080 ;
+			font-size: 18pt;
+		}
+
+		ul li{
+			font-family: Abadi extra Light;
+			color: black;
+			font-size: 16pt;
+		}
+
+figure{
+	text-align:center; 
+}
+
+	img{ width: 60%;
+
+}
+
+	.imglogo{
+		width: 25%;
+		text-align: left;
+	}
+
+table{
+	border-collapse: collapse;
+	width: 90%;
+	color: black;
+}
+
+td,th{
+	border: 5px double #FF3E96 ;
+	padding: 2%;
+	font-size:1.2em;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+
+a:link {
+  color:#FF1493;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#8A2BE2;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#00FFFF;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #FF00FF;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
