@@ -28,6 +28,7 @@ margin-right:10%;
 			font-family:Abadi Extra Light;
 			color:black;
 			font-size: 16pt;
+			text-align: justify;
 
 			
 			
@@ -79,7 +80,7 @@ figure{
 }
 
 	.imglogo{
-		width: 25%;
+		width: 30%;
 		text-align: left;
 	}
 
@@ -120,6 +121,12 @@ a:active {
   color: #FF00FF;
   background-color: transparent;
   text-decoration: underline;
+}
+
+
+.videocentro{
+	text-align:center;
+	width: 60%;
 }
 
 
